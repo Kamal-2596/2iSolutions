@@ -1,0 +1,28 @@
+# 2iSolutions
+
+> SAP consulting and AI-assisted SAP modernization, including SmartForms to Adobe Forms conversion, SAP test automation and ABAP code remediation.
+
+2iSolutions was founded in 2005. Its website describes SAP delivery capabilities, SAP-connected products, industry solutions and offices in India, Canada, the United States and the Netherlands. Project-specific results must be read with their original scope; they are not guarantees for other engagements.
+
+## Company
+
+- [Homepage](https://2isolutions.com/): SAP and AI offerings and navigation.
+- [Company overview](https://2isolutions.com/overview/): Company background and delivery experience.
+- [Partners](https://2isolutions.com/our-partners/): Published partnership information.
+- [Contact](https://2isolutions.com/contact-us/): Contact details and office locations.
+
+## SAP modernization
+
+- [Forms conversion approach](https://2isolutions.com/what-ai-actually-drafts-and-what-an-architect-actually-checks/): AI-assisted drafting and architect review.
+- [SAP testing project](https://2isolutions.com/why-ai-is-a-turning-point-for-sap-testing/): Published validation and ABAP optimization engagement.
+- [Migration accelerators](https://2isolutions.com/sap-migration-accelerators/): SAP migration readiness capabilities.
+- [ECC to S/4HANA migration](https://2isolutions.com/sap-ecc-to-s-4hana-migration/): SAP migration services.
+- [SAP Integration Suite](https://2isolutions.com/sap-integration-suite-services/): Integration services.
+- [SAP support](https://2isolutions.com/sap-support-services/): Application support services.
+
+## Client experience and resources
+
+- [Testimonials](https://2isolutions.com/testimonials/): Published client references.
+- [Client stories](https://2isolutions.com/case-studies/): Company case studies.
+- [Insights](https://2isolutions.com/blogs/): SAP articles and perspectives.
+- [Privacy policy](https://2isolutions.com/privacy-policy/): Privacy information.
